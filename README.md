@@ -6,4 +6,4 @@ https://nikuk1.github.io/work-day-scheduler/
 
 ## Screenshot
 
-![Workday Screenshot](https://nikuk1.github.io/MyPortfolio/assets/img/workday-website-screenshot.png "Scheduler Screenshot")
+![workday-website-screenshot](https://user-images.githubusercontent.com/65746547/93855519-7a7e8180-fc6c-11ea-830a-c587f56d57a3.png "WorkDay Scheduler Screenshot")
